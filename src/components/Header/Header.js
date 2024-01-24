@@ -17,7 +17,7 @@ export default function Header() {
   }
 
   return (
-    <div className='header-manu'>
+    <div className='header-menu'>
       <Menu secondary>
         <Menu.Item 
           active={activeItem === "inicio"}
